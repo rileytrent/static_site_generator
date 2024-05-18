@@ -1,0 +1,1 @@
+This Project is a guided project for building a static website generator.
